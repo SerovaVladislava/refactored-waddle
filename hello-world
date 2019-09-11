@@ -1,5 +1,4 @@
 mkdir hello
 cd hello
 touch hello.html
-git add hello.html
-git commit -m "First Commit"
+
